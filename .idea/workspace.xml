@@ -30,7 +30,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Python.buy_computer">
+  <component name="RunManager" selected="Python.sorting">
     <configuration name="buy_computer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Program_Flow" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +94,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Program_Flow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.buy_computer" />
+        <item itemvalue="Python.sorting" />
         <item itemvalue="Python.mutable" />
         <item itemvalue="Python.number_lists" />
+        <item itemvalue="Python.buy_computer" />
       </list>
     </recent_temporary>
   </component>
@@ -122,22 +144,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597948742725" />
-    <state width="914" height="280" key="GridCell.Tab.0.bottom" timestamp="1597965326408">
+    <state width="914" height="280" key="GridCell.Tab.0.bottom" timestamp="1598025815608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597965326408" />
-    <state width="914" height="280" key="GridCell.Tab.0.center" timestamp="1597965326408">
+    <state width="914" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598025815608" />
+    <state width="914" height="280" key="GridCell.Tab.0.center" timestamp="1598025815608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597965326408" />
-    <state width="914" height="280" key="GridCell.Tab.0.left" timestamp="1597965326408">
+    <state width="914" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598025815608" />
+    <state width="914" height="280" key="GridCell.Tab.0.left" timestamp="1598025815608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597965326408" />
-    <state width="914" height="280" key="GridCell.Tab.0.right" timestamp="1597965326408">
+    <state width="914" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598025815608" />
+    <state width="914" height="280" key="GridCell.Tab.0.right" timestamp="1598025815608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597965326408" />
+    <state width="914" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598025815608" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
